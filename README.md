@@ -1,3 +1,3 @@
 # Documentation
 
-##Parite 1
+## Parite 1
